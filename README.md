@@ -4,6 +4,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
+* [Screenshots](#screenshots)
 * [Features](#features)
 * [Setup](#setup)
 * [Usage](#usage)
@@ -21,6 +22,8 @@ It's a fairly simple app made with in Visual Studio, that was created and upload
 ## Technologies Used
 - C# Window Forms 
 
+## Screenshots
+![Example screenshot](./img/screenshot.png)
 
 ## Features
 - An interactive board to place your symbol.
