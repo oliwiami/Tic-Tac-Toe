@@ -10,6 +10,7 @@
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
+* [Feedback](#feedback)
 
 
 
@@ -49,3 +50,6 @@ The project might be imporved one day.
 
 Room for improvement:
 - Better looking UI
+
+##Feedback
+Feel free to leave any feedback on the project.
