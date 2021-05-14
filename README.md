@@ -45,5 +45,3 @@ The project might be imporved one day.
 
 Room for improvement:
 - Better looking UI
-
-
