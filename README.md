@@ -51,5 +51,5 @@ The project might be imporved one day.
 Room for improvement:
 - Better looking UI
 
-##Feedback
+## Feedback
 Feel free to leave any feedback on the project.
