@@ -23,7 +23,8 @@ It's a fairly simple app made with in Visual Studio, that was created and upload
 - C# Window Forms 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Game](./img/tictactoe.png)
+![Winner](./img/tictactoe_2.png)
 
 ## Features
 - An interactive board to place your symbol.
